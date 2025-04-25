@@ -1,0 +1,54 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Crash reports
+sysinfo.txt
+
+# User-specific files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Unity auto-generated
+ExportedObj/
+.consulo/
+*.apk
+*.unitypackage
+*.app
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Mac system files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# JetBrains Rider stuff
+*.dotCover
+
+# Unity Cloud Build
+.cloud/
+
+# Addressable Asset data
+Assets/AddressableAssetsData/*/*.bin*
+Assets/AddressableAssetsData/*/*.link*
